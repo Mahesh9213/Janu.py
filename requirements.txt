@@ -1,0 +1,11 @@
+Flask==2.1.2
+Flask-Login==0.6.2
+google-api-python-client==2.78.0
+google-auth==2.16.0
+google-auth-oauthlib==0.5.2
+google-auth-httplib2==0.1.0
+pandas==1.5.3
+tabulate==0.9.0
+Werkzeug==2.1.2
+python-docx==0.8.11
+PyPDF2==2.11.0
